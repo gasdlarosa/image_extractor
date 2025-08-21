@@ -2,7 +2,7 @@
 
 An intelligent desktop utility built with Python and YOLOv8 to automatically detect, de-skew, and extract perfectly cropped portrait photos from scanned documents and images.
 
-![Image Extractor Screenshot](https://i.imgur.com/your-screenshot-url.png)
+![Image Extractor Screenshot](screenshots/image-extractor-screenshot.png)
 > **Note:** You should replace the link above with a real screenshot of your application. Consider creating a GIF of the workflow for the best showcase!
 
 ---
